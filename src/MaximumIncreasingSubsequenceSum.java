@@ -1,3 +1,13 @@
+/*
+*
+* Given an array of n positive integers. Write a program
+* to find the sum of maximum sum subsequence of the given array such that
+ * the intgers in the subsequence are sorted in increasing order
+*
+* */
+
+
+
 import java.util.Arrays;
 
 public class MaximumIncreasingSubsequenceSum {
